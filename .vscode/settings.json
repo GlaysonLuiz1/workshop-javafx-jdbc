@@ -13,6 +13,7 @@
     "java.debug.settings.vmArgs": "--module-path C:\\java-libs\\javafx-sdk-20.0.1\\lib --add-modules=javafx.fxml,javafx.controls",
     "cSpell.words": [
         "Aboutr",
+        "Botão",
         "Departamento",
         "Initializable",
         "Sobre",
